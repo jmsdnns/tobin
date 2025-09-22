@@ -1,8 +1,14 @@
-![tobin](logo.png)
+![Tobin](logo.png)
 
-_a simple key-value store created for learning_
+🦀 _A simple, minimal key-value store_
+
+
+## Why
 
 I have been reading [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) and feeling very inspired to build some of what I have read about. This project is an attempt to build a simple kv-store based on LSM trees.
+
+This project exists simply for the joy of learning.
+
 
 ## The Plan
 
